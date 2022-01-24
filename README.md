@@ -1,7 +1,8 @@
 # Clicked
-A Pet Finder Web Application
+**A Pet Finder Web Application**
 
-Technologies:
+**Technologies:**
+
 Front-end: ReactJS
 
 Back-end: Java
