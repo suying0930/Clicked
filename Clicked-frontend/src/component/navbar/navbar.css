@@ -1,0 +1,38 @@
+.navbar-nav {
+    margin-left: 750px;
+}
+
+.item-margin {
+    margin-right: 15px;
+}
+
+
+/*.footer-bottom {*/
+/*    background-color:#2e2d2d;*/
+/*    margin-left: -13px;*/
+/*    margin-right: -13px;*/
+/*}*/
+
+.center {
+    text-align: center;
+}
+
+.contact-us {
+    color: #61dafb;
+}
+
+
+.home-title {
+    color: black;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+}
+
+#container{
+    text-align: center;
+}
+
+.a {
+    color: black;
+    font-weight: bold;
+}
